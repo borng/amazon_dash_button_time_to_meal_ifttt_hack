@@ -1,16 +1,17 @@
 /*
 
-Meal time notification
+Telegram TimeStamper
 
-Code based on the awesome work of aaronbell.com
+
+Fork  based on the awesome work of aaronbell.com and  Julián Caro Linares
 
 More info at:
 
 http://www.aaronbell.com/how-to-hack-amazons-wifi-button/
 
-Created by: Julián Caro Linares
+Created by:
 
-jcarolinares@gmail.com
+Greg Born
 
 CC-BY-SA
 
